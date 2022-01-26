@@ -1,4 +1,6 @@
 [![Gratipay][gratipay-image]][gratipay-url]
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/478ac56e-ef87-4c07-b601-e2bb1115b82e.svg?orgId=604336610407)](https://app.soluble.cloud/repos/details/github.com/jefferyfry/epforcedirectedgraph.cs?orgId=604336610407)  
 EpForceDirectedGraph.cs
 =======================
 #### A 2D/3D force directed graph algorithm in C# ####
